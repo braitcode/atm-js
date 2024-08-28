@@ -21,7 +21,7 @@ console.log("Full Name:", fullName);
 
 
 // Task
-// let myInput = prompt("Enter Username or PIN")
+let myInput = prompt("Enter Username or PIN")
 // console.log("myInput")
 let loginPin = myInput.toLowerCase();
 // console.log(myInput, loginPin);
