@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading1{
+    color: red;
+    font-size: 4rem;
+}
+
+.heading2{
+    color: black;
+    font-style: italic;
+}
