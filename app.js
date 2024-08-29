@@ -1,34 +1,5 @@
-console.log("Hello PB")
-
-var day = "Monday";
-console.log(day)
-
-const myAge = 28;
-console.log(myAge)
-
-const str = 'str'
-console.log(str)
-
-const PB = {
-    firstName: "Bright",
-    lastName: "Okhumale"
-}
-const firstName = PB.firstName
-const lastName = PB.lastName
-const fullName = firstName + " " + lastName
-console.log("Full Name:", fullName);
-
-
-
 // Task
-// let myInput = prompt("Enter Username or PIN")
-// console.log("myInput")
-// let loginPin = myInput.toLowerCase();
-// console.log(myInput, loginPin);
-
-
-// Task
-let myInput = prompt("Enter Username or PIN");
+// let myInput = prompt("Enter Username or PIN");
 let loginPin = myInput.toLowerCase();
 
 let accName = "Brait";
